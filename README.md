@@ -52,3 +52,10 @@ A sophisticated book recommendation web application built with Streamlit that he
 - **NumPy** - Numerical computing
 - **Pickle** - Data serialization
 - **streamlit-option-menu** - Enhanced navigation component
+
+## 🚀 Live App
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://book-recommendation-system-by-utsav.streamlit.app/)
+
+👉 **Click here to access the app:**  
+https://book-recommendation-system-by-utsav.streamlit.app/
